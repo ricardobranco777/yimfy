@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	printf("Yes in my front yard!");
+	do { printf("Yes in my front yard!\n"); } while (1);
 }
